@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExportedData data_type="CONTACTS">
+  <DataGroup id="1" parent_uid="1" name="..." />
+  <DataGroup id="2" parent_uid="1" name="კონტაქტი" />
+  <DataGroup id="15" parent_uid="1" name="მომწოდებელი" />
+  <DataGroup id="124" parent_uid="2" name="მძღოლები" />
+  <DataGroup id="125" parent_uid="2" name="აგენტები" />
+  <DataGroup id="126" parent_uid="2" name="მანქანები" />
+  <DataItem id="2" parent_uid="15" name="უცნობი მომწოდებელი" barcode="" address="" address2="" phone="" business_uid="" contact_type="1" />
+  <DataItem id="3" parent_uid="2" name="უცნობი კლიენტი" barcode="" address="" address2="" phone="" business_uid="" contact_type="2" />
+  <DataItem id="4" parent_uid="2" name="--" barcode="" address="" address2="" phone="" business_uid="" contact_type="3" />
+  <DataItem id="5" parent_uid="2" name="უცნობი პარტნიორი" barcode="" address="" address2="" phone="" business_uid="" contact_type="4" />
+  <DataItem id="9" parent_uid="15" name="შპს დიპლომატ ჯორჯია" barcode="" address="" address2="სამტრედია რობაქიძის 30" phone="" business_uid="204557121" contact_type="1" />
+  <DataItem id="10" parent_uid="15" name="შპს ჯიესი" barcode="" address="ზ ანჯაფარიძის 61" address2="ზ ანჯაფარიძის 61" phone="" business_uid="412677009" contact_type="1" />
+  <DataItem id="13" parent_uid="15" name="შპს კოლხა ბიზნეს ჯგუფი" barcode="" address="ქ.ქუთაისი გამსახურდიას  51" address2="ქ.ქუთაისი გამსახურდიას  51" phone="" business_uid="212919412" contact_type="1" />
+  <DataItem id="19" parent_uid="15" name="შპს. ამგ" barcode="" address="ქ.ქუთაისი ა.წერეთლის 186" address2="ქ.ქუთაისი ა.წერეთლის 186" phone="" business_uid="412679506" contact_type="1" />
+  <DataItem id="24" parent_uid="15" name="შპს ნატურალ ფუდი" barcode="" address="ქ.ქუთაისი ლადო ასათიანის 119" address2="ქ.ქუთაისი ლადო ასათიანის 119" phone="" business_uid="431945728" contact_type="1" />
+  <DataItem id="26" parent_uid="15" name="შპს.სვით კომპანი" barcode="" address="ქ.ქუთაისი ასათიანის 119" address2="ქ.ქუთაისი ასათიანის 119" phone="" business_uid="412676073" contact_type="1" />
+  <DataItem id="27" parent_uid="15" name="შპს გეო ფუდ დისტრიბიუშენი" barcode="" address="ქ.ქუთაისი აბაშიძის 21 ა" address2="ქ.ქუთაისი აბაშიძის 21 ა" phone="" business_uid="202227269" contact_type="1" />
+  <DataItem id="28" parent_uid="15" name="ს.ს იბერია რეფრეშმენტსი" barcode="" address="ქ.ქუთაისი ა.წერეთლის 186" address2="ქ.ქუთაისი ა.წერეთლის 186" phone="" business_uid="204968730" contact_type="1" />
+  <DataItem id="29" parent_uid="15" name="შპს რგ ტრეიდი" barcode="" address="ქ.ქუთაისი ა.წერეთლის 186 ნაკვეთი 5/2" address2="ქ.ქუთაისი ა.წერეთლის 186 ნაკვეთი 5/2" phone="" business_uid="202195784" contact_type="1" />
+  <DataItem id="30" parent_uid="15" name="შპს ზედაზენი იმერეთი" barcode="" address="" address2="" phone="" business_uid="404919870" contact_type="1" />
+  <DataItem id="31" parent_uid="15" name="შპს ივერიონი გრუპ" barcode="" address="" address2="ქ.ქუთაისი ნიკეას 16" phone="" business_uid="417873028" contact_type="1" />
+  <DataItem id="32" parent_uid="15" name="შპს ენგადი" barcode="" address="" address2="" phone="" business_uid="" contact_type="1" />
+  <DataItem id="34" parent_uid="15" name="შპს კოკა-კოლა იმერეთი" barcode="" address="" address2="ქ.ქუთაისი ნიკეას. 5 ნომ. 6" phone="" business_uid="212871230" contact_type="1" />
+  <DataItem id="36" parent_uid="15" name="შპს. სოლედო" barcode="" address="" address2="ქ.ქუთაისი აბაშიძის 21" phone="" business_uid="404855233" contact_type="1" />
+  <DataItem id="37" parent_uid="15" name="შპს სადისტრიბუციო სერვისი" barcode="" address="" address2="ქ.ქუთაისი ანჯაფარიძის 28" phone="" business_uid="212920892" contact_type="1" />
+  <DataItem id="38" parent_uid="15" name="შპს ბერტა იმერეთი" barcode="" address="" address2="ქ.ქუთაისი ნიკეას 16" phone="" business_uid="412672763" contact_type="1" />
+  <DataItem id="39" parent_uid="15" name="შპს ინტრეიდი ფოთი" barcode="" address="" address2="ქ.ქუთაისი გუგუნავას 13" phone="" business_uid="215149097" contact_type="1" />
+  <DataItem id="40" parent_uid="15" name="შპს ლა ბოტე" barcode="" address="" address2="ქ.ქუთაისი ორახელაშვის 4" phone="" business_uid="205032739" contact_type="1" />
+  <DataItem id="41" parent_uid="15" name="შპს ენგადი" barcode="" address="" address2="ქ.ქუთაისი 186 ნაკვეთი 2" phone="" business_uid="242005888" contact_type="1" />
+  <DataItem id="42" parent_uid="15" name="შპს ევრო ფუდი" barcode="" address="" address2="ქ.ქუთაისი ი.აბაშიძის 21ა" phone="" business_uid="205184003" contact_type="1" />
+  <DataItem id="43" parent_uid="15" name="შპს ვესტ ინვესტი" barcode="" address="ქ.ახალგაზრდობის.19" address2="ქ.ახალგაზრდობის.19" phone="" business_uid="212918360" contact_type="1" />
+  <DataItem id="44" parent_uid="15" name="შპს ვესტაიდ დისტრიბუშენ" barcode="" address="" address2="ქ.თბილისი დიღმის მასივი 3 კორპ 18ბ/32" phone="" business_uid="401947284" contact_type="1" />
+  <DataItem id="45" parent_uid="15" name="იმ არჩილ ჭაჭიაშვილი" barcode="" address="გუგუნავას 13" address2="" phone="" business_uid="18001012978" contact_type="1" />
+  <DataItem id="46" parent_uid="15" name="შპს დილა 2011" barcode="" address="სოხუმის ქუჩა 11" address2="" phone="" business_uid="412679597" contact_type="1" />
+  <DataItem id="47" parent_uid="15" name="შპს შარმ ტრეიდინგი" barcode="" address="" address2="ქ.ქუთაისი ორახელაშვილის 14" phone="" business_uid="211397004" contact_type="1" />
+  <DataItem id="48" parent_uid="15" name="შპს მეგაკო" barcode="" address="ორახელაშვილის 14" address2="" phone="" business_uid="204875108" contact_type="1" />
+  <DataItem id="49" parent_uid="15" name="შპს ქართული სადისტრიბუციო -კომპანია" barcode="" address="ორახელაშვილის 14" address2="" phone="" business_uid="202282369" contact_type="1" />
+  <DataItem id="50" parent_uid="15" name="შპს გრუპ-სვითი" barcode="" address="სულხან საბას 10" address2="" phone="557 00 27 87" business_uid="412675804" contact_type="1" />
+  <DataItem id="51" parent_uid="15" name="შპს დ&amp;ლ სერვისი" barcode="" address="" address2="" phone="" business_uid="204557461" contact_type="1" />
+  <DataItem id="52" parent_uid="15" name="შპს გდ ალკო" barcode="" address="აბაშიძის 21 ა" address2="" phone="" business_uid="205047091" contact_type="1" />
+  <DataItem id="53" parent_uid="15" name="კედარი" barcode="" address="ქ.ქუთაისი სულხან-საბას 10" address2="ქ.ქუთაისი სულხან-საბას 10" phone="" business_uid="212916273" contact_type="1" />
+  <DataItem id="54" parent_uid="15" name="შპს აგტც" barcode="" address="" address2="ქ.ქუთაისი ასათიანი 116" phone="" business_uid="425357801" contact_type="1" />
+  <DataItem id="55" parent_uid="15" name="შპს სტარდი" barcode="" address="9 აპრილის 1 შეს 6/6 ა" address2="" phone="" business_uid="212921926" contact_type="1" />
+  <DataItem id="56" parent_uid="15" name="შპს მზიური" barcode="" address="ორახელაშვილის 14" address2="" phone="" business_uid="205025079" contact_type="1" />
+  <DataItem id="57" parent_uid="15" name="იმ გია ჯინჭარაძე" barcode="" address="" address2="" phone="" business_uid="33001004444" contact_type="1" />
+  <DataItem id="58" parent_uid="15" name="შპს ვესტ დისტრიბუშენი" barcode="" address="ნიკიას 2 ჩიხი 2" address2="" phone="" business_uid="212676898" contact_type="1" />
+  <DataItem id="59" parent_uid="15" name="შპს.ვიკა 2004" barcode="" address="ქ.ქუთაისი კლდიაშვილი 54" address2="ქ.ქუთაისი კლდიაშვილი 54" phone="" business_uid="412674119" contact_type="1" />
+  <DataItem id="60" parent_uid="15" name="შპს თთ 555" barcode="" address="" address2="" phone="" business_uid="" contact_type="1" />
+  <DataItem id="61" parent_uid="15" name="შპს თ&amp;რ დისტრიბუშენ იმერეთი" barcode="" address="ნიკიას ქ 60" address2="" phone="" business_uid="212921622" contact_type="1" />
+  <DataItem id="62" parent_uid="15" name="შპს თაგილი" barcode="" address="ცაგერი გოლეთიანის 13" address2="" phone="551 11 55 13" business_uid="442569150" contact_type="1" />
+  <DataItem id="63" parent_uid="15" name="შპს გრანდ ქენდი" barcode="" address="12131313" address2="" phone="" business_uid="121665464" contact_type="1" />
+  <DataItem id="64" parent_uid="15" name="შპს ელვა-2" barcode="" address="" address2="ქ.ქუთაისი გუგუნავას 8" phone="" business_uid="212899194" contact_type="1" />
+  <DataItem id="65" parent_uid="15" name="შპს სანო დისტრიბიუიშენი" barcode="" address="ზვიად გამსახურდიას 51დ" address2="" phone="" business_uid="" contact_type="1" />
+  <DataItem id="66" parent_uid="15" name="იმ გოგელიძე" barcode="" address="წყალტუბო გვანცელაძის" address2="" phone="" business_uid="53001026772" contact_type="1" />
+  <DataItem id="67" parent_uid="15" name="შპს პეშურა" barcode="" address="რუსთაველის ჩიხი 8 ნომ 16" address2="" phone="" business_uid="412679882" contact_type="1" />
+  <DataItem id="68" parent_uid="15" name="შპს დელუქს ჯორჯია" barcode="" address="კახეთის ჩიხი 23" address2="" phone="" business_uid="200275362" contact_type="1" />
+  <DataItem id="69" parent_uid="15" name="შპს ლიბერთეგი" barcode="" address="ნიკიას 2 შეს 14ა-34" address2="" phone="" business_uid="412679953" contact_type="1" />
+  <DataItem id="70" parent_uid="15" name="შპს ბადაგონი" barcode="" address="" address2="" phone="" business_uid="224624262" contact_type="1" />
+  <DataItem id="71" parent_uid="15" name="შპს ბაკალუა ჯგუფი" barcode="" address="" address2="" phone="" business_uid="" contact_type="1" />
+  <DataItem id="72" parent_uid="15" name="იმ ავთანდილ გუბელაძე" barcode="" address="ქ.ქუთაისი ნიკეას 2 ნომ 1" address2="ქ.ქუთაისი ნიკეას 2 ნომ 1" phone="" business_uid="60001015469" contact_type="1" />
+  <DataItem id="73" parent_uid="15" name="კახა" barcode="" address="მჭედლიძის 28" address2="" phone="" business_uid="ищещеф" contact_type="1" />
+  <DataItem id="74" parent_uid="15" name="შპს სამგორი 07" barcode="" address="აბუსერიძე -ტბელის 13" address2="" phone="" business_uid="206301599" contact_type="1" />
+  <DataItem id="75" parent_uid="15" name="მერაბი ბაბუხადია" barcode="" address="" address2="" phone="" business_uid="" contact_type="1" />
+  <DataItem id="76" parent_uid="15" name="შპს.ფორვარდი 2009" barcode="" address="" address2="ქ.ქუთაისი სულხან საბას 10" phone="" business_uid="212919047" contact_type="1" />
+  <DataItem id="77" parent_uid="15" name="შპს კარდუ" barcode="" address="" address2="" phone="" business_uid="445383424" contact_type="1" />
+  <DataItem id="79" parent_uid="15" name="შპს ეკო მითი" barcode="" address="ლ ასათიანის 7 ჩიხი ნომ 7" address2="" phone="" business_uid="412670550" contact_type="1" />
+  <DataItem id="80" parent_uid="15" name="შპს ფამილი" barcode="" address="" address2="" phone="" business_uid="412682486" contact_type="1" />
+  <DataItem id="82" parent_uid="15" name="შპს შაორი" barcode="" address="მოსკოვის გამზირი" address2="" phone="" business_uid="206116424" contact_type="1" />
+  <DataItem id="83" parent_uid="15" name="შპს საქართველოს სავაჭრო ჯგუფი" barcode="" address="ბახტრიონის 3/5 ბ 46" address2="" phone="" business_uid="205274184" contact_type="1" />
+  <DataItem id="84" parent_uid="15" name="შპს იმერეთი 2011" barcode="" address="გუგუნავას 1" address2="" phone="" business_uid="412676037" contact_type="1" />
+  <DataItem id="85" parent_uid="15" name="შპს ნიკორა 7" barcode="" address="ნიკიას 16" address2="" phone="" business_uid="215133193" contact_type="1" />
+  <DataItem id="86" parent_uid="15" name="შპს ბი ემ ესი" barcode="" address="კოსტავას 59" address2="" phone="" business_uid="202196426" contact_type="1" />
+  <DataItem id="87" parent_uid="15" name="შპს აქვა გეო" barcode="" address="წერეთლის 186" address2="" phone="" business_uid="204564113" contact_type="1" />
+  <DataItem id="88" parent_uid="15" name="შპს ჯორჯია პლიუსი" barcode="" address="მჭედლიძის 28" address2="" phone="" business_uid="412676019" contact_type="1" />
+  <DataItem id="89" parent_uid="15" name="შპს ბ.ბ.დ." barcode="" address="" address2="" phone="" business_uid="412681398" contact_type="1" />
+  <DataItem id="90" parent_uid="15" name="შპს ელიზი ჯგუფი" barcode="" address="ასათიანის ქ 19" address2="" phone="" business_uid="204920381" contact_type="1" />
+  <DataItem id="91" parent_uid="15" name="შპს ბაგრატი" barcode="" address="" address2="ქუთაისი აბაშიძის 21" phone="" business_uid="412672807" contact_type="1" />
+  <DataItem id="92" parent_uid="15" name="შპს იოლი ჯგუფი" barcode="" address="" address2="" phone="" business_uid="412682565" contact_type="1" />
+  <DataItem id="93" parent_uid="15" name="შპს ონიმა" barcode="" address="გუგუნავას13" address2="" phone="" business_uid="212916157" contact_type="1" />
+  <DataItem id="94" parent_uid="15" name="იმ ალექსანდრე სიმსივე" barcode="" address="აღმაშენებლის 186" address2="" phone="" business_uid="60001022931" contact_type="1" />
+  <DataItem id="95" parent_uid="15" name="შპს უნივერსალი" barcode="" address="ჯავახიშვილის  63" address2="" phone="" business_uid="212677520" contact_type="1" />
+  <DataItem id="96" parent_uid="15" name="შპს გეოდისტრიბუცია" barcode="" address="ნადარეიშვილის 5" address2="" phone="" business_uid="401958271" contact_type="1" />
+  <DataItem id="97" parent_uid="15" name="შპს სეზამი" barcode="" address="კახეთის გზატკეცილი 112 ე" address2="" phone="" business_uid="202464591" contact_type="1" />
+  <DataItem id="98" parent_uid="15" name="შპს ვესტ ტობაკო" barcode="" address="ფიქრების 12" address2="" phone="" business_uid="400002377" contact_type="1" />
+  <DataItem id="99" parent_uid="15" name="შპს კომპანია ორბიტა" barcode="" address="" address2="" phone="" business_uid="202230790" contact_type="1" />
+  <DataItem id="100" parent_uid="15" name="შპს მაკნატუნა" barcode="" address="ნინოშვილის 6" address2="" phone="" business_uid="212904703" contact_type="1" />
+  <DataItem id="101" parent_uid="15" name="შპს ტბკ" barcode="" address="წერეთლის 186" address2="" phone="" business_uid="412680727" contact_type="1" />
+  <DataItem id="102" parent_uid="15" name="შპს ვერტექს ჯგუფი" barcode="" address="ახალგაზრდობის  21 ბ" address2="" phone="" business_uid="412677045" contact_type="1" />
+  <DataItem id="103" parent_uid="15" name="შპს.ლიტვური საცხობი" barcode="" address="" address2="ქ.თბილისი ერისთავის 1" phone="" business_uid="400026645" contact_type="1" />
+  <DataItem id="104" parent_uid="15" name="შპს ომეგა -2" barcode="" address="" address2="ქუთაისი ორახელაშვილის 2" phone="" business_uid="245422608" contact_type="1" />
+  <DataItem id="105" parent_uid="15" name="იმ თორნიკე ბენდელიანი" barcode="" address="ქვიტირი" address2="" phone="" business_uid="60001031251" contact_type="1" />
+  <DataItem id="106" parent_uid="15" name="შპს ვიკა 2004" barcode="" address="კლდიაშვილის 54" address2="" phone="" business_uid="412674119" contact_type="1" />
+  <DataItem id="107" parent_uid="15" name="შპს ორიენტი" barcode="" address="" address2="" phone="" business_uid="202163292" contact_type="1" />
+  <DataItem id="108" parent_uid="15" name="შპს გურმანი" barcode="" address="წერეთლის 163/165" address2="" phone="" business_uid="212798819" contact_type="1" />
+  <DataItem id="109" parent_uid="15" name="შპს გოლდი 2010" barcode="" address="გამსახურდიას 31" address2="" phone="" business_uid="412674271" contact_type="1" />
+  <DataItem id="110" parent_uid="15" name="შპს მდზ" barcode="" address="გუგუნავას 13 ნაკ 3/1" address2="" phone="" business_uid="445410822" contact_type="1" />
+  <DataItem id="111" parent_uid="15" name="შპს სადისტრიბუციო კომპანია მ და გ" barcode="" address="" address2="" phone="" business_uid="200117480" contact_type="1" />
+  <DataItem id="112" parent_uid="15" name="შპს დოლჩე ვიტა" barcode="" address="ასათიანის 119" address2="" phone="" business_uid="412673307" contact_type="1" />
+  <DataItem id="113" parent_uid="15" name="შპს ვასაძის პური" barcode="" address="ოზურგეთი" address2="" phone="" business_uid="237077961" contact_type="1" />
+  <DataItem id="114" parent_uid="15" name="შპს ქობულეთური" barcode="" address="თერჯოლა რუსთაველის  4" address2="" phone="" business_uid="404917587" contact_type="1" />
+  <DataItem id="115" parent_uid="15" name="შპს ჯეოსტარი" barcode="" address="სამგორის ჩიხი 4 ა" address2="" phone="" business_uid="202243401" contact_type="1" />
+  <DataItem id="116" parent_uid="15" name="იმ ნინო ბოჭორიშვილი" barcode="" address="კუპრაძის 6 შეს 3" address2="" phone="" business_uid="600010300586" contact_type="1" />
+  <DataItem id="117" parent_uid="15" name="შპს კულა" barcode="" address="წერეთლის 185/5/2" address2="" phone="" business_uid="218083197" contact_type="1" />
+  <DataItem id="118" parent_uid="15" name="იმ ბეჟან ტყეშელაშვილი" barcode="" address="ახალგაზრდობის 62-ა" address2="" phone="" business_uid="17001001025" contact_type="1" />
+  <DataItem id="119" parent_uid="15" name="შპს გერგო ჯგუფი" barcode="" address="ასათიანის 119" address2="" phone="" business_uid="212921980" contact_type="1" />
+  <DataItem id="120" parent_uid="15" name="შპს ფორვარდი 2009" barcode="" address="სულხან საბას 10" address2="" phone="" business_uid="" contact_type="1" />
+  <DataItem id="121" parent_uid="15" name="იმ კახა მაღლაკელიძე" barcode="" address="მელიქიშვილის 1" address2="" phone="" business_uid="01007001432" contact_type="1" />
+  <DataItem id="122" parent_uid="15" name="შპს სამება 2000" barcode="" address="" address2="" phone="" business_uid="415590159" contact_type="1" />
+  <DataItem id="123" parent_uid="15" name="შპს ტ.ბ.კ" barcode="" address="წერეთლის 186" address2="" phone="" business_uid="412680727" contact_type="1" />
+  <DataItem id="127" parent_uid="126" name="AI-455-IA" barcode="" address="საავტომობილო" address2="" phone="1" business_uid="" contact_type="6" />
+  <DataItem id="128" parent_uid="126" name="DDX-123" barcode="" address="საავტომობილო" address2="" phone="1" business_uid="" contact_type="6" />
+  <DataItem id="129" parent_uid="125" name="აგენტი 1" barcode="" address="" address2="" phone="" business_uid="" contact_type="3" />
+  <DataItem id="130" parent_uid="124" name="ემზარ არქანია" barcode="" address="" address2="" phone="" business_uid="62005007644" contact_type="5" />
+  <DataItem id="131" parent_uid="2" name="ზაზა არქანია" barcode="" address="ქუთაისი" address2="" phone="" business_uid="62005007896" contact_type="2" />
+  <DataItem id="132" parent_uid="2" name="kienti" barcode="" address="" address2="" phone="" business_uid="" contact_type="2" />
+  <DataItem id="133" parent_uid="2" name="Momcodebeli" barcode="" address="" address2="" phone="" business_uid="" contact_type="1" />
+  <DataItem id="134" parent_uid="2" name="Tanamshromeli" barcode="" address="" address2="" phone="" business_uid="" contact_type="3" />
+  <DataItem id="135" parent_uid="2" name="Partniori" barcode="" address="" address2="" phone="" business_uid="" contact_type="4" />
+  <DataItem id="136" parent_uid="2" name="Mimtani" barcode="" address="" address2="" phone="" business_uid="" contact_type="3" />
+  <DataItem id="137" parent_uid="2" name="Sadazgvevo" barcode="" address="" address2="" phone="" business_uid="" contact_type="4" />
+  <DataItem id="138" parent_uid="2" name="Venseleri" barcode="" address="" address2="" phone="" business_uid="" contact_type="3" />
+  <DataItem id="139" parent_uid="2" name="Priseleri" barcode="" address="" address2="" phone="" business_uid="" contact_type="3" />
+  <DataItem id="140" parent_uid="2" name="Satransporto Sashualeba" barcode="" address="საავტომობილო" address2="" phone="1" business_uid="" contact_type="6" />
+  <DataItem id="141" parent_uid="2" name="Mdzgoli" barcode="" address="" address2="" phone="" business_uid="" contact_type="5" />
+  <DataItem id="142" parent_uid="2" name="Partniori1" barcode="" address="" address2="" phone="" business_uid="" contact_type="4" />
+  <DataItem id="143" parent_uid="2" name="Sadazgvevo1" barcode="" address="" address2="" phone="" business_uid="" contact_type="4" />
+</ExportedData>
